@@ -13,3 +13,7 @@ hs_err_pid*
 
 /Test/nbproject/private/
 /Test/build/
+Test/build.xml
+Test/nbproject/
+Test/dist/
+Test/build/
