@@ -10,5 +10,9 @@ package testforgit;
  * @author Sara Selim
  */
 public class Addation {
+    public int add (int a,int b){
+        return a+b;
+    }
+    
     
 }
