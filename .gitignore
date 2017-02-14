@@ -10,7 +10,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-testForGit/build.xml
-testForGit/nbproject/
-testForGit/dist/
-testForGit/build/
+Test/build.xml
+Test/nbproject/
+Test/dist/
+Test/build/
